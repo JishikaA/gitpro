@@ -5,3 +5,10 @@ git add .
 git remote add orgin "url"
 git commit -m "commit label"
 git push -u origin master
+
+
+second commit
+
+git add .
+git commit -m "msg"
+git push
