@@ -1,0 +1,7 @@
+git config --global user.name "JishikaA"
+git config --global user.email "jjishikaa@gmail.com"
+git init
+git add .
+git remote add orgin "url"
+git commit -m "commit label"
+git push -u origin master
